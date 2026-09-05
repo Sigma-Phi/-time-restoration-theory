@@ -6,4 +6,5 @@
 
 完整理論文件請進入：
 
-### → TRT-CORE
+
+### → [TRT-CORE](./TRT-CORE)
